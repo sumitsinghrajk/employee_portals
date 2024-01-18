@@ -1,0 +1,35 @@
+body{
+	background-color: cornsilk !important;
+	background-image: url(https://as2.ftcdn.net/v2/jpg/03/11/50/71/1000_F_311507184_0mErEL2kUw7z4AbXhsxPjFE7hQnY7BLy.jpg);
+	background-size: cover;
+    background-position: center;
+}
+.register_form,.emp_profile{
+	background-color: #eee;
+	}
+
+
+.login_form{
+	/* background-color: gainsboro; */
+	background-color: none;
+    border: 1px solid black;
+}	
+
+.login_page{
+	position: absolute;
+  	top: 50%;
+  	left: 50%;
+  	transform: translate(-50%,-50%);
+}
+.emp_name{
+	font-size: 1.3rem;
+	font-weight: bold;
+}
+th,td{
+	white-space: nowrap;
+}
+
+.nav_name{
+		font-style: italic;
+		font-weight: bold;
+}
